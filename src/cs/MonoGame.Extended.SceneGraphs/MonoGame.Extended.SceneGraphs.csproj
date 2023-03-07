@@ -5,8 +5,8 @@
 
 	<PropertyGroup>
 		<Authors>craftworkgames</Authors>
-		<Description>An Entity Component System to make MonoGame more awesome.</Description>
-		<PackageTags>monogame ecs entity component system</PackageTags>
+		<Description>A scene graph system to make MonoGame more awesome.</Description>
+		<PackageTags>monogame scene graph node entity</PackageTags>
 		<PackageProjectUrl>https://github.com/craftworkgames/MonoGame.Extended</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/craftworkgames/MonoGame.Extended</RepositoryUrl>
 		<PackageIconUrl>https://raw.githubusercontent.com/craftworkgames/MonoGame.Extended/master/Logos/logo-nuget-128.png</PackageIconUrl>
@@ -17,7 +17,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\MonoGame.Extended\MonoGame.Extended.csproj" />
 		<ProjectReference Include="..\..\..\..\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
+		<ProjectReference Include="..\MonoGame.Extended\MonoGame.Extended.csproj" />
 	</ItemGroup>
+
 </Project>
