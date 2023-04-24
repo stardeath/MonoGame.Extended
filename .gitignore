@@ -2,6 +2,11 @@
 [Bb]in/
 [Oo]bj/
 
+# VS
+.vs/
+*.nupkg
+tools/
+
 # Rider
 .idea/
 *.user

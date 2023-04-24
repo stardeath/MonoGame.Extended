@@ -17,7 +17,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\..\..\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
 		<ProjectReference Include="..\MonoGame.Extended\MonoGame.Extended.csproj" />
 	</ItemGroup>
 

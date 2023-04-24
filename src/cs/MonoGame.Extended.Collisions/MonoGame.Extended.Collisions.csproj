@@ -19,6 +19,5 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\MonoGame.Extended\MonoGame.Extended.csproj" />
-		<ProjectReference Include="..\..\..\..\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
 	</ItemGroup>
 </Project>

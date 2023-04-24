@@ -31,10 +31,10 @@
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
 	</ItemGroup>
 	<ItemGroup>
-		<ProjectReference Include="..\..\..\..\MonoGame\MonoGame.Framework.Content.Pipeline\MonoGame.Framework.Content.Pipeline.csproj" />
+		<ProjectReference Include="..\..\..\..\stardeath_MonoGame\MonoGame.Framework.Content.Pipeline\MonoGame.Framework.Content.Pipeline.csproj" />
 		<ProjectReference Include="..\MonoGame.Extended.Tiled\MonoGame.Extended.Tiled.csproj" />
 		<ProjectReference Include="..\MonoGame.Extended\MonoGame.Extended.csproj" />
-		<ProjectReference Include="..\..\..\..\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
+		<ProjectReference Include="..\..\..\..\stardeath_MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Update="Newtonsoft.Json.dll">
